@@ -102,7 +102,3 @@ Author : Emilio Reforgiato (resole79)
 ##
 <p align="right"><a href="https://www.linkedin.com/in/emilio-reforgiato/" target=”_blank” ><img src="./image/in_logo.png" /></a></p>
 
-
----
-
-
