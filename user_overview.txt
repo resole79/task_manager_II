@@ -1,0 +1,18 @@
+The total number of users registered is : 2
+The total number of tasks is : 3
+
+*******************************************ADMIN*******************************************
+The total number of tasks is : 2
+The percentage of the total number of tasks is : 66.67%
+The percentage of the tasks completed is : 0.00%
+The percentage of the tasks must still be completed is : 100.00%
+The percentage of the tasks have not yet been completed and are overdue is : 100.00%
+******************************************************************************************
+
+*******************************************JOHN*******************************************
+The total number of tasks is : 1
+The percentage of the total number of tasks is : 33.33%
+The percentage of the tasks completed is : 0.00%
+The percentage of the tasks must still be completed is : 100.00%
+The percentage of the tasks have not yet been completed and are overdue is : 0.00%
+******************************************************************************************
