@@ -18,7 +18,7 @@ git clone https://github.com/resole79/task_manager_II.git
 2. **Run** the **task_manager.py** file:
 
 ```sh
-python task_manager.py
+python3 task_manager.py
 ```
 #### What's New?   
 
