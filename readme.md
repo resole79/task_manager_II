@@ -62,7 +62,7 @@ Ask the user to input:
 <p align="center"><img src="./image/task_manager_1.png"/><br><i>admin selects “r”</i></p>
 
 
-**User *'admin'* selects *‘a’* to to add a task**
+**User *'admin'* selects *‘a’* to add a task**
 
 Ask the user to input:
  - Username of the person the task is assigned
